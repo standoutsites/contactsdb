@@ -1,72 +1,52 @@
 [
   {
-    "department": "purchasing",
-    "email": "period@yahoo.com",
-    "name": "Immanuel Schinner",
-    "phoneHome": "334-661-4898",
-    "position": "Central Branding Administrator"
-  },
-  {
-    "department": "research and development",
-    "email": "aut58@hotmail.com",
-    "name": "Jace Dibbert",
-    "phoneHome": "813-220-2208 x824",
-    "position": "Human Marketing Facilitator"
-  },
-  {
-    "department": "legal",
-    "email": "guillermo@outlook.com",
-    "name": "Lucas Ullrich",
-    "phoneHome": "(448) 125-8070 x49312",
-    "position": "Chief Tactics Planner"
+    "department": "sales",
+    "email": "find@yahoo.com",
+    "name": "Cameron Schmidt"
   },
   {
     "department": "human resources",
-    "email": "matt@gmail.com",
-    "name": "Amy Deckow",
-    "phoneHome": "449.171.6521",
-    "position": "Investor Group Officer"
-  },
-  {
-    "department": "production",
-    "email": "owen@outlook.com",
-    "name": "Delta Rogahn",
-    "phoneHome": "(524) 047-5477 x285",
-    "position": "Internal Metrics Orchestrator"
-  },
-  {
-    "department": "finance",
-    "email": "nicklaus@yahoo.com",
-    "name": "Bernadine Kihn",
-    "phoneHome": "1-903-930-8234",
-    "position": "Product Communications Manager"
+    "email": "save@outlook.com",
+    "name": "Judd Morissette"
   },
   {
     "department": "distribution",
-    "email": "lay44@hotmail.com",
-    "name": "Sister Schoen",
-    "phoneHome": "1-346-668-7853 x93021",
-    "position": "International Accountability Liaison"
+    "email": "eusebio@hotmail.com",
+    "name": "Alva Beatty"
   },
   {
-    "department": "operations",
-    "email": "clyde@gmail.com",
-    "name": "Imelda Sipes",
-    "phoneHome": "(151) 552-4206 x1381",
-    "position": "Regional Solutions Executive"
+    "department": "communication",
+    "email": "stream_rosendo@gmail.com",
+    "name": "Phyllis Funk"
   },
   {
-    "department": "marketing",
-    "email": "tempore@hotmail.com",
-    "name": "Einar Tillman",
-    "phoneHome": "660-653-1702 x230",
-    "position": "Principal Usability Engineer"
+    "department": "production",
+    "email": "ryley@yahoo.com",
+    "name": "Vicenta Christiansen"
   },
   {
     "department": "customer service support",
-    "email": "except43@gmail.com",
-    "name": "Darrin Pfannerstill",
-    "phoneHome": "826-712-4143 x0813",
-    "position": "Dynamic Markets Strategist"
+    "email": "avis@outlook.com",
+    "name": "Gabrielle Kiehn"
+  },
+  {
+    "department": "legal",
+    "email": "iron@gmail.com",
+    "name": "Ulices Hilll"
+  },
+  {
+    "department": "administrative",
+    "email": "wife_angelica@hotmail.com",
+    "name": "Reed Rutherford"
+  },
+  {
+    "department": "accounting",
+    "email": "karlie@hotmail.com",
+    "name": "Ned Schulist"
+  },
+  {
+    "department": "purchasing",
+    "email": "king56@outlook.com",
+    "name": "Claudine Waelchi"
   }
 ]
