@@ -1,82 +1,72 @@
 [
   {
-    "department": "accounting",
-    "email": "sit@yahoo.com",
-    "first_name": "Maybell",
-    "last_name": "Murray",
-    "phoneHome": "908.199.3639 x38510",
-    "position": "Product Assurance Specialist"
-  },
-  {
-    "department": "operations",
-    "email": "post45@outlook.com",
-    "first_name": "Madisen",
-    "last_name": "Torphy",
-    "phoneHome": "(715) 515-6725 x76205",
-    "position": "Corporate Mobility Assistant"
-  },
-  {
-    "department": "human resources",
-    "email": "destin@gmail.com",
-    "first_name": "Ova",
-    "last_name": "Graham",
-    "phoneHome": "(989) 130-7302",
-    "position": "Legacy Identity Director"
-  },
-  {
-    "department": "sales",
-    "email": "lauriane@hotmail.com",
-    "first_name": "Katrine",
-    "last_name": "Metz",
-    "phoneHome": "(230) 460-3545 x99107",
-    "position": "Central Usability Producer"
-  },
-  {
-    "department": "operations",
-    "email": "quam@outlook.com",
-    "first_name": "Jeanette",
-    "last_name": "Konopelski",
-    "phoneHome": "1-755-093-0961",
-    "position": "Senior Configuration Agent"
-  },
-  {
     "department": "purchasing",
-    "email": "ease@yahoo.com",
-    "first_name": "Theodora",
-    "last_name": "Ferry",
-    "phoneHome": "332.427.8367 x553",
-    "position": "Customer Accountability Designer"
+    "email": "period@yahoo.com",
+    "name": "Immanuel Schinner",
+    "phoneHome": "334-661-4898",
+    "position": "Central Branding Administrator"
   },
   {
-    "department": "production",
-    "email": "wild@gmail.com",
-    "first_name": "Narciso",
-    "last_name": "Haley",
-    "phoneHome": "171-078-4642",
-    "position": "Future Markets Technician"
-  },
-  {
-    "department": "marketing",
-    "email": "fish_chesley@hotmail.com",
-    "first_name": "Herman",
-    "last_name": "Nitzsche",
-    "phoneHome": "1-308-527-7298 x849",
-    "position": "Human Implementation Planner"
-  },
-  {
-    "department": "communication",
-    "email": "david@outlook.com",
-    "first_name": "Deanna",
-    "last_name": "Sanford",
-    "phoneHome": "277-858-5854 x920",
-    "position": "District Interactions Supervisor"
+    "department": "research and development",
+    "email": "aut58@hotmail.com",
+    "name": "Jace Dibbert",
+    "phoneHome": "813-220-2208 x824",
+    "position": "Human Marketing Facilitator"
   },
   {
     "department": "legal",
-    "email": "free39@gmail.com",
-    "first_name": "Clifford",
-    "last_name": "Stanton",
-    "phoneHome": "(470) 865-6785",
-    "position": "Dynamic Metrics Liaison"
+    "email": "guillermo@outlook.com",
+    "name": "Lucas Ullrich",
+    "phoneHome": "(448) 125-8070 x49312",
+    "position": "Chief Tactics Planner"
+  },
+  {
+    "department": "human resources",
+    "email": "matt@gmail.com",
+    "name": "Amy Deckow",
+    "phoneHome": "449.171.6521",
+    "position": "Investor Group Officer"
+  },
+  {
+    "department": "production",
+    "email": "owen@outlook.com",
+    "name": "Delta Rogahn",
+    "phoneHome": "(524) 047-5477 x285",
+    "position": "Internal Metrics Orchestrator"
+  },
+  {
+    "department": "finance",
+    "email": "nicklaus@yahoo.com",
+    "name": "Bernadine Kihn",
+    "phoneHome": "1-903-930-8234",
+    "position": "Product Communications Manager"
+  },
+  {
+    "department": "distribution",
+    "email": "lay44@hotmail.com",
+    "name": "Sister Schoen",
+    "phoneHome": "1-346-668-7853 x93021",
+    "position": "International Accountability Liaison"
+  },
+  {
+    "department": "operations",
+    "email": "clyde@gmail.com",
+    "name": "Imelda Sipes",
+    "phoneHome": "(151) 552-4206 x1381",
+    "position": "Regional Solutions Executive"
+  },
+  {
+    "department": "marketing",
+    "email": "tempore@hotmail.com",
+    "name": "Einar Tillman",
+    "phoneHome": "660-653-1702 x230",
+    "position": "Principal Usability Engineer"
+  },
+  {
+    "department": "customer service support",
+    "email": "except43@gmail.com",
+    "name": "Darrin Pfannerstill",
+    "phoneHome": "826-712-4143 x0813",
+    "position": "Dynamic Markets Strategist"
   }
 ]
